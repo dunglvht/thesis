@@ -1,0 +1,373 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Basso:2011hn}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=b220a0ea922dddec2abc7489cc6b01e6}{%
+           family={Basso},
+           familyi={B\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Southampton U.}%
+      }
+      \strng{namehash}{b220a0ea922dddec2abc7489cc6b01e6}
+      \strng{fullhash}{b220a0ea922dddec2abc7489cc6b01e6}
+      \strng{bibnamehash}{b220a0ea922dddec2abc7489cc6b01e6}
+      \strng{authorbibnamehash}{b220a0ea922dddec2abc7489cc6b01e6}
+      \strng{authornamehash}{b220a0ea922dddec2abc7489cc6b01e6}
+      \strng{authorfullhash}{b220a0ea922dddec2abc7489cc6b01e6}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{hep-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{{Phenomenology of the minimal B-L extension of the Standard Model at the LHC}}
+      \field{type}{phdthesis}
+      \field{year}{2011}
+      \verb{eprint}
+      \verb 1106.4462
+      \endverb
+    \endentry
+    \entry{davidtong:quantumfieldtheory}{misc}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{David Tong: Quantum Field Theory}}
+      \field{title}{{David Tong: Lectures on Quantum Field Theory}}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.damtp.cam.ac.uk/user/tong/qft.html
+      \endverb
+      \verb{url}
+      \verb https://www.damtp.cam.ac.uk/user/tong/qft.html
+      \endverb
+    \endentry
+    \entry{Denner:1992bc}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7ae89435eb9d6807c583ea23f58c42c6}{%
+           family={Denner},
+           familyi={D\bibinitperiod},
+           given={Ansgar},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e664a8dcdaec492d8759d1f9d6ed43eb}{%
+           family={Kublbeck},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=42b1ab1b23a6fe6f67ac14a2026d4000}{%
+           family={Mertig},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a91c51dceaf03dbec52a6d863fbe2044}{%
+           family={Bohm},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0fd65ff1483d7bae75b89ef49adf661}
+      \strng{fullhash}{bfd1f05c6dbb1a0cb993ee0e3f7a47ca}
+      \strng{bibnamehash}{d0fd65ff1483d7bae75b89ef49adf661}
+      \strng{authorbibnamehash}{d0fd65ff1483d7bae75b89ef49adf661}
+      \strng{authornamehash}{d0fd65ff1483d7bae75b89ef49adf661}
+      \strng{authorfullhash}{bfd1f05c6dbb1a0cb993ee0e3f7a47ca}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Z. Phys. C}
+      \field{title}{{Electroweak radiative corrections to e+ e- ---\ensuremath{>} H Z}}
+      \field{volume}{56}
+      \field{year}{1992}
+      \field{pages}{261\bibrangedash 272}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/BF01555523
+      \endverb
+    \endentry
+    \entry{Diaz-Cruz:2013kpa}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5955e20f9c7a9943e1b82708b53dc11b}{%
+           family={Diaz-Cruz},
+           familyi={D\bibinithyphendelim C\bibinitperiod},
+           given={J.\bibnamedelimi Lorenzo},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ec6f062f6b0d99ec06b94a1971368eb0}{%
+           family={Hernandez-Lopez},
+           familyi={H\bibinithyphendelim L\bibinitperiod},
+           given={Javier\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=52153f82330eafd501f453adcf236c08}{%
+           family={Orduz-Ducuara},
+           familyi={O\bibinithyphendelim D\bibinitperiod},
+           given={Javier\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f87a33e954a466875afccb42b93b4f2}
+      \strng{fullhash}{4f87a33e954a466875afccb42b93b4f2}
+      \strng{bibnamehash}{4f87a33e954a466875afccb42b93b4f2}
+      \strng{authorbibnamehash}{4f87a33e954a466875afccb42b93b4f2}
+      \strng{authornamehash}{4f87a33e954a466875afccb42b93b4f2}
+      \strng{authorfullhash}{4f87a33e954a466875afccb42b93b4f2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{hep-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{J. Phys. G}
+      \field{title}{{An extra $Z'$ gauge boson as a source of Higgs particles}}
+      \field{volume}{40}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{125002}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0954-3899/40/12/125002
+      \endverb
+      \verb{eprint}
+      \verb 1304.0016
+      \endverb
+    \endentry
+    \entry{Griffiths:2008zz}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f155d780982df4094a3495f4b0c58354}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f155d780982df4094a3495f4b0c58354}
+      \strng{fullhash}{f155d780982df4094a3495f4b0c58354}
+      \strng{bibnamehash}{f155d780982df4094a3495f4b0c58354}
+      \strng{authorbibnamehash}{f155d780982df4094a3495f4b0c58354}
+      \strng{authornamehash}{f155d780982df4094a3495f4b0c58354}
+      \strng{authorfullhash}{f155d780982df4094a3495f4b0c58354}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-527-40601-2}
+      \field{title}{{Introduction to elementary particles}}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{Gutierrez-Rodriguez:2015qka}{article}{}
+      \name{author}{2}{}{%
+        {{hash=38b03e3f417524b3f33ab3991b8e7926}{%
+           family={Gutiérrez-Rodrí{}guez},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1afdeacaed51631868f6d637defa28c3}{%
+           family={Hernández-Ruiz},
+           familyi={H\bibinithyphendelim R\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{93169c51e9de551e568aaf0bd6726750}
+      \strng{fullhash}{93169c51e9de551e568aaf0bd6726750}
+      \strng{bibnamehash}{93169c51e9de551e568aaf0bd6726750}
+      \strng{authorbibnamehash}{93169c51e9de551e568aaf0bd6726750}
+      \strng{authornamehash}{93169c51e9de551e568aaf0bd6726750}
+      \strng{authorfullhash}{93169c51e9de551e568aaf0bd6726750}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{hep-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Adv. High Energy Phys.}
+      \field{title}{{$Z'$ resonance and associated $Zh$ production at future Higgs boson factory: ILC and CLIC}}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{593898}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1155/2015/593898
+      \endverb
+      \verb{eprint}
+      \verb 1506.07575
+      \endverb
+    \endentry
+    \entry{Hollik:2010id}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f0f751ebc84b9edf454d03cd76645d28}{%
+           family={Hollik},
+           familyi={H\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0f751ebc84b9edf454d03cd76645d28}
+      \strng{fullhash}{f0f751ebc84b9edf454d03cd76645d28}
+      \strng{bibnamehash}{f0f751ebc84b9edf454d03cd76645d28}
+      \strng{authorbibnamehash}{f0f751ebc84b9edf454d03cd76645d28}
+      \strng{authornamehash}{f0f751ebc84b9edf454d03cd76645d28}
+      \strng{authorfullhash}{f0f751ebc84b9edf454d03cd76645d28}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{2009 European School of High-Energy Physics}}
+      \field{eprintclass}{hep-ph}
+      \field{eprinttype}{arXiv}
+      \field{month}{12}
+      \field{title}{{Quantum field theory and the Standard Model}}
+      \field{year}{2010}
+      \true{nocite}
+      \verb{eprint}
+      \verb 1012.3883
+      \endverb
+    \endentry
+    \entry{LEIKE1999143}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f457d6c71e735ff0ef8024245e4c9978}{%
+           family={Leike},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f457d6c71e735ff0ef8024245e4c9978}
+      \strng{fullhash}{f457d6c71e735ff0ef8024245e4c9978}
+      \strng{bibnamehash}{f457d6c71e735ff0ef8024245e4c9978}
+      \strng{authorbibnamehash}{f457d6c71e735ff0ef8024245e4c9978}
+      \strng{authornamehash}{f457d6c71e735ff0ef8024245e4c9978}
+      \strng{authorfullhash}{f457d6c71e735ff0ef8024245e4c9978}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The phenomenological constraints on extra neutral gauge bosons at present and at future colliders are reviewed. Special attention is paid to the influence of radiative corrections, systematic errors, and kinematic cuts on the Z′ constraints. Simple estimates of the Z′ constraints from different reactions are derived. They make the physical origin of these constraints transparent. The results existing in the literature are summarized and compared with the estimates. The consequence of model assumptions on the Z′ constraints is discussed. The paper starts with an overview of Z′ parameters and the possible links between them by model assumptions. It continues with a discussion of Z′ limits and Z′ measurements in different reactions at e+e− and μ+μ− colliders. It follows an overview of the corresponding limits at proton colliders. Possible Z′ constraints from other reactions as ep collisions, atomic parity violation, neutrino scattering and cosmology are briefly mentioned.}
+      \field{issn}{0370-1573}
+      \field{journaltitle}{Physics Reports}
+      \field{number}{3}
+      \field{title}{The phenomenology of extra neutral gauge bosons}
+      \field{volume}{317}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{143\bibrangedash 250}
+      \range{pages}{108}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0370-1573(98)00133-1
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0370157398001331
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0370157398001331
+      \endverb
+    \endentry
+    \entry{Peskin:1995ev}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7bad35ca708cc14703fbf71be1b2dda8}{%
+           family={Peskin},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=cc0fe4ad0bcb2f8883e7f5e5b5287dd9}{%
+           family={Schroeder},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Reading, USA}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{cbcdd646a15ae9af77377e5f1358ecb4}
+      \strng{fullhash}{cbcdd646a15ae9af77377e5f1358ecb4}
+      \strng{bibnamehash}{cbcdd646a15ae9af77377e5f1358ecb4}
+      \strng{authorbibnamehash}{cbcdd646a15ae9af77377e5f1358ecb4}
+      \strng{authornamehash}{cbcdd646a15ae9af77377e5f1358ecb4}
+      \strng{authorfullhash}{cbcdd646a15ae9af77377e5f1358ecb4}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-201-50397-5}
+      \field{title}{{An Introduction to quantum field theory}}
+      \field{year}{1995}
+      \true{nocite}
+    \endentry
+    \entry{Pich:2007vu}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=44f1be3103b55105f860525ca34893e4}{%
+           family={Pich},
+           familyi={P\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{44f1be3103b55105f860525ca34893e4}
+      \strng{fullhash}{44f1be3103b55105f860525ca34893e4}
+      \strng{bibnamehash}{44f1be3103b55105f860525ca34893e4}
+      \strng{authorbibnamehash}{44f1be3103b55105f860525ca34893e4}
+      \strng{authornamehash}{44f1be3103b55105f860525ca34893e4}
+      \strng{authorfullhash}{44f1be3103b55105f860525ca34893e4}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{2006 European School of High-Energy Physics}}
+      \field{eprintclass}{hep-ph}
+      \field{eprinttype}{arXiv}
+      \field{month}{5}
+      \field{title}{{The Standard model of electroweak interactions}}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{eprint}
+      \verb 0705.4264
+      \endverb
+    \endentry
+    \entry{Schwartz:2014sze}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1e7b6dde56467cb787f369fadc91b2df}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Matthew\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1e7b6dde56467cb787f369fadc91b2df}
+      \strng{fullhash}{1e7b6dde56467cb787f369fadc91b2df}
+      \strng{bibnamehash}{1e7b6dde56467cb787f369fadc91b2df}
+      \strng{authorbibnamehash}{1e7b6dde56467cb787f369fadc91b2df}
+      \strng{authornamehash}{1e7b6dde56467cb787f369fadc91b2df}
+      \strng{authorfullhash}{1e7b6dde56467cb787f369fadc91b2df}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-107-03473-0, 978-1-107-03473-0}
+      \field{month}{3}
+      \field{title}{{Quantum Field Theory and the Standard Model}}
+      \field{year}{2014}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
